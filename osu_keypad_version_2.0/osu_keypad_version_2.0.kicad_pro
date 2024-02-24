@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "osu_keypad_version_1.1.kicad_pro",
+    "filename": "osu_keypad_version_2.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -324,7 +324,7 @@
   },
   "sheets": [
     [
-      "8a905afd-f1bd-4b67-bb15-8664c91e359a",
+      "b91082e9-09f8-48be-a917-f54adb06705e",
       ""
     ]
   ],
