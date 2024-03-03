@@ -424,7 +424,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "power",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 63, 58)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.381,
         "via_diameter": 0.8,
