@@ -1,6 +1,7 @@
-[submodule "osu_keypad_version_1.1/MX_Alps_Hybrid.pretty"]
-	path = osu_keypad_version_1.1/MX_Alps_Hybrid.pretty
+
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
-[submodule "osu_keypad_version_1.1/random-keyboard-parts.pretty"]
-	path = osu_keypad_version_1.1/random-keyboard-parts.pretty
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
