@@ -7,3 +7,6 @@
 [submodule "submodules/Type-C.pretty"]
 	path = submodules/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "submodules/kicad-ATmega32U4"]
+	path = submodules/kicad-ATmega32U4
+	url = https://github.com/yskoht/kicad-ATmega32U4
